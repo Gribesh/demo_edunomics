@@ -131,7 +131,7 @@ We can implement authentication using a parse server as a backend conveniently w
 
 # Future Work
 
-Improvement in UI.
-Addition of content in home page.
+- Improvement in UI.
+- Addition of content in home page.
 
 Github Link : https://github.com/Gribesh/demo_edunomics.git
